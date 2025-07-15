@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume () {
     const config = {
-        link: 'https://purple-terrie-68.tiiny.site/'
+        link: 'https://1drv.ms/b/c/7f1d3bf5b9a1059c/ETf9J5a4mQBIqXJf26ByRh4BfHDBEQ3yms3d9wjPZ1eJlw?e=uo71EX'
     }
 
     return <section id='resume' className='flex flex-col md:flex-row bg-background px-5 py-20' data-aos="fade-up">
